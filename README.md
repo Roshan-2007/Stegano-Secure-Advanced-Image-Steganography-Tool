@@ -6,7 +6,7 @@ import base64
 import os
 
 # ==============================
-# 🔐 CRYPTO (Password आधारित)
+# 🔐 CRYPTO (Password)
 # ==============================
 
 def derive_key(password: str) -> bytes:
